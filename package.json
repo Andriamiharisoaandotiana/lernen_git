@@ -1,0 +1,24 @@
+{
+  "name": "lernen_git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andriamiharisoaandotiana/lernen_git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Andriamiharisoaandotiana/lernen_git/issues"
+  },
+  "homepage": "https://github.com/Andriamiharisoaandotiana/lernen_git#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  }
+}
